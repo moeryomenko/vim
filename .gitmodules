@@ -1,0 +1,42 @@
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "bundle/vim-airline-themes"]
+	path = bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "bundle/asyncomplete.vim"]
+	path = bundle/asyncomplete.vim
+	url = https://github.com/prabirshrestha/asyncomplete.vim
+[submodule "bundle/vim-lsp"]
+	path = bundle/vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp
+[submodule "bundle/async.vim"]
+	path = bundle/async.vim
+	url = https://github.com/prabirshrestha/async.vim
+[submodule "bundle/asyncomplete-lsp.vim"]
+	path = bundle/asyncomplete-lsp.vim
+	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
+[submodule "bundle/vim-autoformat"]
+	path = bundle/vim-autoformat
+	url = https://github.com/chiel92/vim-autoformat
+[submodule "bundle/nord-vim"]
+	path = bundle/nord-vim
+	url = https://github.com/arcticicestudio/nord-vim.git
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
+	url = https://github.com/python-mode/python-mode.git
+[submodule "bundle/vim-cmus"]
+	path = bundle/vim-cmus
+	url = git@github.com:azadkuh/vim-cmus.git
+[submodule "bundle/ansible-vim"]
+	path = bundle/ansible-vim
+	url = https://github.com/pearofducks/ansible-vim
+[submodule "bundle/vim-ginkgo"]
+	path = bundle/vim-ginkgo
+	url = git@github.com:ivy/vim-ginkgo.git
